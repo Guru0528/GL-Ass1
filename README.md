@@ -1,2 +1,2 @@
 # GL-Ass1
-This is the #### testing process
+This is the # testing process
